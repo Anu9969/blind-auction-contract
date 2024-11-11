@@ -1,8 +1,3 @@
-# blind-auction-contract
-Here's a detailed `README.md` for your Blind Auction smart contract repository:
-
----
-
 # Blind Auction Smart Contract
 
 This repository contains a Solidity-based Blind Auction contract, where bidders can submit hidden (blinded) bids, and only reveal them after the bidding phase. The contract includes secure handling of bids and deposits, enforces strict timelines for bidding and revealing, and ensures funds are transferred to the winning bidder only after proper verification.
